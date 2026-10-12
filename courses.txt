@@ -1,1 +1,2 @@
+COS203|Discrete Structure|3
 COS201|Computer Programming 1|3
