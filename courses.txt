@@ -1,2 +1,1 @@
-COS203|Discrete Structure|3
-COS201|Computer Programming 1|3
+DTS201|Introduction to Data Science|2
